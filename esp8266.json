@@ -14,7 +14,7 @@
             "help": {
               "online": "https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series/releases/tag/0.0.4"
             }, 
-            "url": "https://github.com/ecrin4102/esp8268/esp8266-0.0.4.zip", 
+            "url": "https://github.com/ecrin4102/esp8268/raw/main/esp8266-0.0.4.zip", 
             "checksum": "SHA-256:8bf2d78bcfa64d1e93d278971afbe58ed7fb34b6b6d5401f290e30aaf0271584", 
             "name": "Heltec ESP8266 Series Dev-boards", 
             "version": "0.0.4", 
